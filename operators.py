@@ -1,5 +1,9 @@
+# This program shows all different types of operations that can be done in python.
+
+# Assign a value to each variable
 a = 7
 b = 17
+
 print(a + b) # Addition.
 print(a - b) # Subtraction.
 print(a*b)   # Multiplication.
